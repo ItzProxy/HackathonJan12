@@ -7,3 +7,37 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
+# Eclipse
+bin
+.classpath
+.project
+.settings
+
+# Gradle
+**/.gradle
+build
+
+# IDEA
+.idea
+.iml
+
+# IntelliJ
+out/
+
+# NPM
+node_modules
+/src/main/resources/public/js/webpack
+/dist
+
+# Temp files
+~$
+.swp
+.DS_Store
+
+# Log files
+**/*.log
+**/log/**
+
+*.iml
+/generated-src
