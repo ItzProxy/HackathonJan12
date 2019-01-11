@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":dionne-webapp" external.linked.project.path="$MODULE_DIR$/../../../dionne-webapp" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="dionne" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../dionne-webapp">
+      <excludeFolder url="file://$MODULE_DIR$/../../../dionne-webapp/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../dionne-webapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../dionne-webapp/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

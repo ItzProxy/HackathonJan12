@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="dionne.dionne-api.main" target="1.8" />
+      <module name="dionne.dionne-api.test" target="1.8" />
+      <module name="dionne.dionne-client.main" target="1.8" />
+      <module name="dionne.dionne-client.test" target="1.8" />
+      <module name="dionne.dionne-service.main" target="1.8" />
+      <module name="dionne.dionne-service.test" target="1.8" />
+      <module name="dionne.dionne-webapp.main" target="1.8" />
+      <module name="dionne.dionne-webapp.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
