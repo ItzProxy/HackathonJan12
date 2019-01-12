@@ -4,12 +4,15 @@ dependencies {
     compile project(':dionne-api')
     compile 'org.springframework.boot:spring-boot-starter-web'
     compile 'org.springframework.boot:spring-boot-starter-data-jpa'
-	compile 'org.liquibase:liquibase-core'
-	compile 'org.hsqldb:hsqldb'
+  	compile 'org.liquibase:liquibase-core'
+	  compile 'org.hsqldb:hsqldb'
     compile 'org.glassfish.jersey.core:jersey-client'
     compile 'org.glassfish.jersey.media:jersey-media-json-jackson'
     compile 'org.glassfish.jersey.inject:jersey-hk2'
     compile 'org.apache.commons:commons-lang3:3.8.1'
+
+    compile 'com.microsoft.azure:azure-documentdb-spring-boot-starter:2.0.4'
+    compile group: 'com.microsoft.azure', name: 'spring-data-cosmosdb', version: '3.0.0.M1'
 
 
     compileOnly 'org.projectlombok:lombok:1.18.4'

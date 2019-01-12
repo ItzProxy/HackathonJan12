@@ -1,4 +1,4 @@
-package com.vivvo.userservice;
+package com.userservice;
 
 
 import lombok.Setter;

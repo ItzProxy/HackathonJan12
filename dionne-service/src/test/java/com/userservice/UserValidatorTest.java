@@ -1,11 +1,11 @@
-package com.vivvo.userservice;
+package com.userservice;
 
-import com.vivvo.userservice.core.UserRepository;
-import com.vivvo.userservice.core.UserValidator;
+import com.userservice.core.UserRepository;
+import com.userservice.core.UserValidator;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.junit.Before;
 import org.junit.Test;
-import org.mockito.Mock;
+
 import static org.mockito.Mockito.*;
 
 import static org.junit.Assert.*;
