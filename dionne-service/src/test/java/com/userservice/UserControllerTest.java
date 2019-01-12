@@ -1,4 +1,4 @@
-package com.vivvo.userservice;
+package com.userservice;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,4 +1,4 @@
-package com.vivvo.userservice;
+package com.userservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
