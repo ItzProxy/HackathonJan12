@@ -1,8 +1,8 @@
 import {Component, OnChanges} from '@angular/core';
 import {FormBuilder, FormGroup} from "@angular/forms";
-import {UserService} from "../../services/user.service";
+import {UserService} from "../../../services/user.service";
 import {ActivatedRoute} from "@angular/router";
-import {UserModel} from "../../models/user.model";
+import {UserModel} from "../../../models/user.model";
 
 @Component({
   selector: 'app-user',
