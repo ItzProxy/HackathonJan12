@@ -12,7 +12,7 @@ dependencies {
     compile 'org.apache.commons:commons-lang3:3.8.1'
 
     compile 'com.microsoft.azure:azure-documentdb-spring-boot-starter:2.0.4'
-    compile group: 'com.microsoft.azure', name: 'spring-data-cosmosdb', version: '3.0.0.M1'
+    compile 'com.microsoft.azure:spring-data-cosmosdb:3.0.0.M1'
 
 
     compileOnly 'org.projectlombok:lombok:1.18.4'

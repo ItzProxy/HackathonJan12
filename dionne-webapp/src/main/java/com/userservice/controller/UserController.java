@@ -1,8 +1,8 @@
-package com.vivvo.userservice.controller;
+package com.userservice.controller;
 
 
-import com.vivvo.userservice.UserClient;
-import com.vivvo.userservice.UserDto;
+import com.userservice.UserClient;
+import com.userservice.UserDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -11,14 +11,14 @@ import org.springframework.stereotype.Component;
 @Component
 @Getter
 @Setter
-@ConfigurationProperties(prefix = "azure.cosmosdb")
+@ConfigurationProperties(prefix = "azure.documentdb")
 public class DatabaseConfigurations extends AbstractDocumentDbConfiguration {
 
   private String uri;
   private String key;
-  private String dbName;
+  private String database;
 
   public DocumentDBConfig getConfig(){
-    return DocumentDBConfig.builder(uri,key,dbName).build();
+    return DocumentDBConfig.builder(uri,key,database).build();
   }
 }

@@ -1,6 +1,6 @@
-package com.vivvo.userservice.core;
+package com.userservice.core;
 
-import com.vivvo.userservice.UserDto;
+import com.userservice.UserDto;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Component;
 

@@ -1,8 +1,8 @@
-package com.vivvo.userservice.controller;
+package com.userservice.controller;
 
 
-import com.vivvo.userservice.UserDto;
-import com.vivvo.userservice.core.UserService;
+import com.userservice.UserDto;
+import com.userservice.core.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

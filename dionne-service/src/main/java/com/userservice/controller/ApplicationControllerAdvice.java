@@ -1,7 +1,7 @@
-package com.vivvo.userservice.controller;
+package com.userservice.controller;
 
-import com.vivvo.userservice.core.UserNotFoundException;
-import com.vivvo.userservice.core.ValidationException;
+import com.userservice.core.UserNotFoundException;
+import com.userservice.core.ValidationException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.NoSuchMessageException;
