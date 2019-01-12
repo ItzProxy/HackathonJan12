@@ -27,8 +27,8 @@
               "src/main/resources/angular/assets"
             ],
             "styles": [
-  "node_modules/bootstrap/dist/css/bootstrap.min.css",
-
+//  "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/main/resources/angular/materialize.scss",
               "src/main/resources/angular/styles.scss"
             ],
             "scripts": []
@@ -85,7 +85,8 @@
             "tsConfig": "src/main/resources/angular/tsconfig.spec.json",
             "karmaConfig": "src/main/resources/angular/karma.conf.js",
             "styles": [
-              "src/main/resources/angular/styles.scss"
+//              "src/main/resources/angular/styles.scss"
+              "src/main/resources/angular/materialize.scss"
             ],
             "scripts": [],
             "assets": [
